@@ -1,0 +1,26 @@
+#############################################################
+#                                                           #
+# README file   				            #
+# This folder contains the netCDF files with the ocean      #
+# emissions of H2, converted from the bpch file provided    #
+# by Dillan Millet                                          #
+# Available species in the emissions file                   #
+#     + H2                                                  #
+# Created by    : Maria Paula Perez-Pena	            #
+# email         : mpzp.9272@gmail.com		  	    #
+#               : m.perez_pena@unsw.edu.au		    #
+#               : jennyf@uow.edu.au			    #
+# Created       : Feb 24, 2020                              #
+# Last updated  : Jul 12, 2020                              #
+# Folder        : H2OceanEmis 				    #
+# Source        : Dillan Millet, converted to the required  #
+#                 format using Python v 3.6                 #
+# Note          : Used to model H2 in GC                    #
+#############################################################
+
+Files ready to be read by HEMCO in GCv12.5.0
+
+|- H2-em-ocean_emisflux2x25.nc  - Contains Oceanic H2 emissions from nitrogen fixation
+                                  to use on a 2deg x 25deg resolution
+|- H2-em-ocean_emisflux4x5.nc   - Contains Oceanic H2 emissions from nitrogen fixation
+                                  to use on a 2deg x 25deg resolution

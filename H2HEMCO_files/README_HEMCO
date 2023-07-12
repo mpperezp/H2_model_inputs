@@ -1,0 +1,22 @@
+#############################################################
+#                                                           #
+# README file   				            #
+# This folder contains the HEMCO*.rc modified files that    #
+# include the paths for H2 oceanic emissions, H2 dry        #
+# deposition velocity factors to scale CO anthropogenic     #
+# emissions. 						    #
+# Created by    : Maria Paula Perez-Pena	            #
+# email         : mpzp.9272@gmail.com		  	    #
+#               : m.perez_pena@unsw.edu.au		    #
+#               : jennyf@uow.edu.au			    #
+# Created       : Sep 15, 2021                              #
+# Last updated  : Jul 12, 2023                              #
+# Folder        : H2HEMCO_files 			    #
+# Source        : Original GCv12.5.0 *.rc files	            #
+# Note          : Used to model H2 in GC                    #
+#############################################################
+
+Files to be placed in the rundir folder for model execution
+
+|- HEMCO_Config.rc	
+|- HEMCO_Diagn.rc

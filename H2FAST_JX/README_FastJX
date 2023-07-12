@@ -1,0 +1,24 @@
+#############################################################
+#                                                           #
+# README file   				            #
+# This folder contains the FAST-JX modified files that      #
+# separate the absorption cross section from the quantum    #
+# yield for MACR and creates a new binned absorption cross  #
+# sections only for MGLY. Both cases are done to include H2 #
+# as a new source. For more detail on the changes look for  #
+# the notes in FJX_spec.dat file                            #
+# Created by    : Maria Paula Perez-Pena	            #
+# email         : mpzp.9272@gmail.com		  	    #
+#               : m.perez_pena@unsw.edu.au		    #
+#               : jennyf@uow.edu.au			    #
+# Created       : Sep 15, 2021                              #
+# Last updated  : Jul 12, 2023                              #
+# Folder        : H2FAST_JX 				    #
+# Source        : CHEM_INPUTS/FAST_JX/v2019-04 		    #
+# Note          : Used to model H2 in GC                    #
+#############################################################
+
+Files ready to be placed in the FAST-JX folder specified in input.geos
+
+|- FJX_j2j.dat  	
+|- FJX_spec.dat
